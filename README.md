@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello !:
 <br>- B.Tech Computer Science student at Amrita Vishwa Vidyapeetham, Coimbatore (2024–present)<br>- Full-stack developer — I build production-ready apps with React, Node.js, Fastify, and MongoDB<br>- Recently delivered a live client project: a full-stack marketplace platform with role-based access, a wallet ledger engine, and a multi-state business workflow<br>- Also into algorithms and system design — I built a Java Swing tool comparing 4 pathfinding/search strategies side by side<br>- Based in Trivandrum, India<br>- Reach me at nandiniramk006@gmail.com
 
 # 💻 Tech Stack:
